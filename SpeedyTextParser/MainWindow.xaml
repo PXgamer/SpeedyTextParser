@@ -1,0 +1,17 @@
+﻿<Window x:Class="SpeedyTextParser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SpeedyTextParser"
+        mc:Ignorable="d"
+        Title="Speedy Text Parser" Height="350" Width="525" Opacity="0.8" Loaded="Window_Loaded" ResizeMode="CanMinimize" Icon="icon.ico">
+    <Grid>
+        <RadioButton x:Name="Emails" Content="Emails" HorizontalAlignment="Left" Margin="21,10,0,0" VerticalAlignment="Top" IsChecked="True" Checked="Emails_Checked"/>
+        <RadioButton x:Name="URLs" Content="URLs" HorizontalAlignment="Left" Margin="84,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.093,0.576" Checked="URLs_Checked"/>
+        <Button x:Name="button" Content="Parse" HorizontalAlignment="Left" Margin="143,10,0,0" VerticalAlignment="Top" Width="75" Height="15" FontFamily="Segoe UI Black" FontSize="9.333" Click="button_Click"/>
+        <TextBox x:Name="before" HorizontalAlignment="Left" Height="283" Margin="9,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="249" AcceptsReturn="True"/>
+        <TextBox x:Name="after" HorizontalAlignment="Left" Height="283" Margin="259,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="249" AcceptsReturn="True" IsReadOnly="True"/>
+
+    </Grid>
+</Window>

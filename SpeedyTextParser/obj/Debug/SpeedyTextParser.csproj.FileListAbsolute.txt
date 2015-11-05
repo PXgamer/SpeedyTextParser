@@ -1,0 +1,28 @@
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\bin\Debug\SpeedyTextParser.exe.config
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\bin\Debug\SpeedyTextParser.exe
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\bin\Debug\SpeedyTextParser.pdb
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.csprojResolveAssemblyReference.cache
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\MainWindow.g.cs
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\App.g.cs
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser_MarkupCompile.cache
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser_MarkupCompile.lref
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\MainWindow.baml
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.g.resources
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.Properties.Resources.resources
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.csproj.GenerateResource.Cache
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.exe
+c:\users\owen.voke\documents\visual studio 2015\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.pdb
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\bin\Debug\SpeedyTextParser.exe.config
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.exe
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.pdb
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\bin\Debug\SpeedyTextParser.exe
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\bin\Debug\SpeedyTextParser.pdb
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.csprojResolveAssemblyReference.cache
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\MainWindow.g.cs
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\App.g.cs
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser_MarkupCompile.cache
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser_MarkupCompile.lref
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\MainWindow.baml
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.g.resources
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.Properties.Resources.resources
+D:\Personal\Projects\SpeedyTextParser\SpeedyTextParser\obj\Debug\SpeedyTextParser.csproj.GenerateResource.Cache
